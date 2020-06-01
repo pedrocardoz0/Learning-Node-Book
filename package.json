@@ -7,5 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pedro",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrocardoz0/Learning-Node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pedrocardoz0/Learning-Node/issues"
+  },
+  "homepage": "https://github.com/pedrocardoz0/Learning-Node#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
 }
