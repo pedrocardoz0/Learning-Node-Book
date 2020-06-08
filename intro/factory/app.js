@@ -1,5 +1,4 @@
-var foo = require("./foo");
+import * as foo from './foo.js'
 
-var obj = foo();
 
-console.log(obj.something);
+console.log(foo.run())

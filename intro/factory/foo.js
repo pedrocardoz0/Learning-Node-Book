@@ -1,4 +1,4 @@
-module.exports = function () {
+export var run = function () {
   return {
     something: 123,
   };
